@@ -36,20 +36,28 @@ caption{
 }
 
 p{
+  padding-top: 15px;
 
 }
 
 a{
+  color: #B21F50;
+  text-decoration-line: underline;
+  text-decoration-style: wavy;
 
 }
 
 table{
-    border: 2px solid #000000;
+  text-align: center;
+  border: 2px solid #000000;
+  margin: auto;
+  border-radius: 10px
 }
 
 .colhead{
   background-color: #7e0830;
   color: #FFFFFF;
+  min-width: 125px;
 }
 
 .rowhead{
