@@ -81,10 +81,7 @@ td{
   border-top: 2px solid #000000;
   padding: 10px;
   
-}
-
-tr:hover{
-  background-color: rbga(126,8,48,.25);
+tr{
   border-top: 2px solid #000000;
 }
 thead tr:first-child th:first-child {
@@ -105,6 +102,8 @@ tbody tr:nth-child(even) {
 tbody tr:nth-child(odd) { 
   background-color: transparent;
 }
+  tbody tr:hover {
+    background-color: rgb(126,8,48,.25)
  
 footer{
   width:100%;
