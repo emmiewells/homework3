@@ -60,7 +60,7 @@ th {
 }
 
 .colhead{
-  background-color: #7e0830;
+  background-color: #7e0820;
   color: #FFFFFF;
   min-width: 125px;
   padding: 10px;
@@ -74,12 +74,12 @@ th {
   border-top: 2px solid #000000;
   border-right: 2px solid #000000;
   padding: 10px;
-
 }
 
 td{
   border-top: 2px solid #000000;
   padding: 10px;
+}
   
 tr{
   border-top: 2px solid #000000;
