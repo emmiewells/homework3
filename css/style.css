@@ -16,7 +16,7 @@ body{
   background-position: center;
   background-image:url("../images/pigeon-background.JPEG");
   background-color; #DDDDDD;
-  background-size: cover ;
+  background-size: cover;
   background-repeat: no-repeat;
 }
 
@@ -51,7 +51,7 @@ table{
   text-align: center;
   border: 2px solid #000000;
   margin: auto;
-  border-radius: 10px
+  border-radius: 10px;
 }
 
 th {
@@ -104,7 +104,7 @@ tbody tr:nth-child(odd) {
 }
   tbody tr:hover {
     background-color: rgb(126,8,48,.25)
- 
+}
 footer{
   width:100%;
   background:#000000;
