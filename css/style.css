@@ -13,10 +13,10 @@ body{
   font-size: 16px;
   margin: 1.2em;
   font-family: 'Andika', sans-serif;
-  background-position: center;
   background-image:url("../images/pigeon-background.JPEG");
   background-color; #DDDDDD;
   background-size: cover;
+  background-position: center center;
   background-repeat: no-repeat;
 }
 
@@ -27,8 +27,8 @@ main{
 h1{
   color: #c12258;
   font-size: 2em;
-  line-height: 2;
   text-align: center;
+  line-height: 2;
 }
 
 caption{
