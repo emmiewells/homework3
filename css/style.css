@@ -29,6 +29,7 @@ h1{
   font-size: 2em;
   text-align: center;
   line-height: 2;
+  
 }
 
 caption{
@@ -37,21 +38,22 @@ caption{
 
 p{
   padding-top: 15px;
-
 }
 
 a{
-  font-size: 16px;
   color: #B21F50;
   text-decoration-line: underline;
   text-decoration-style: wavy;
 }
 
 table{
+  
   text-align: center;
   border: 2px solid #000000;
   margin: auto;
   border-radius: 10px;
+  
+  
 }
 
 th {
@@ -84,18 +86,20 @@ td{
 tr{
   border-top: 2px solid #000000;
 }
+
 thead tr:first-child th:first-child {
   border-top-left-radius: 10px;
 }
 thead tr:last-child th:last-child {
 border-top-right-radius: 10px;
 }
-tbody tr:last-child td:last-child {
+tbody tr:last-child td:last-child{
   border-bottom-right-radius: 10px;
 }
 tbody tr: last-child th:first-child{
   border-bottom-left-radius: 10px;
 }
+
 tbody tr:nth-child(even) {
   background-color: #d1d1d1;
 }
@@ -105,6 +109,7 @@ tbody tr:nth-child(odd) {
   tbody tr:hover {
     background-color: rgb(126,8,48,.25)
 }
+
 footer{
   width:100%;
   background:#000000;
@@ -114,5 +119,5 @@ footer{
   position: fixed;
   bottom: 0;
   left: 0;
+  
 }
-
